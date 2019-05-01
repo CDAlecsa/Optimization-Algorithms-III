@@ -1,0 +1,6 @@
+Initial Value = 1.0      1.0
+Initial Velocity = 0.0   0.0
+Tolerance = 1e-5
+StepSize_Strang = 1
+coeff_1 = 0.02
+coeff_2 = 0.005

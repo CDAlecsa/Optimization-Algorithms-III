@@ -1,0 +1,9 @@
+Stopping Condition = gradFct
+Initial Value = 0.1
+Initial Velocity = 0.0
+Tolerance = 1e-5
+StepSize_Heun = 1e-1
+StepSize_CN = 1e-1
+StepSize_Strang = 1e-1
+StepSize_Strang_PC = 1e-1
+StepSize_Polyak = 1e-1
