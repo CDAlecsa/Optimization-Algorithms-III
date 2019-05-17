@@ -16,7 +16,3 @@ Optimization Algorithms :
 
 
 The '.mw' files are made in Maple. These files contain the integrals from the RHS of the Strang splitting and Strang with Predictor-Corrector (for the 1D objective function) and the exact solution for the linear system of ODE's (in the 2D folder).
-
-# Copyright © 2019 Cristian Daniel Alecsa
-
-
