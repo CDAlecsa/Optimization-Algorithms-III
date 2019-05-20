@@ -1,6 +1,0 @@
-Initial Value = 1.0      1.0
-Initial Velocity = 0.0   0.0
-Tolerance = 1e-5
-StepSize_Strang = 1
-StepSize_CN = 1
-StepSize_RK = 1
