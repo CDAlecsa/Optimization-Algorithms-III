@@ -89,7 +89,7 @@ def Strang_2D(h, u0, v0, E, gradE, E_min, eps=1e-8):
     E = [E(i) for i in u]
     H = [0.5 * norm(i) ** 2 + j - E_min for i, j in zip(v, E)]
 
-    Change = [i-j for i, j in zip(E[1:], E[0:-1])]
-    Dissip = [i-j for i, j in zip(H[1:], H[0:-1])]
+    Change = [(i-j)/h for i, j in zip(E[1:], E[0:-1])]
+    Dissip = [(i-j)/h for i, j in zip(H[1:], H[0:-1])]
 
     return it, u, v, E, H, Change, Dissip
