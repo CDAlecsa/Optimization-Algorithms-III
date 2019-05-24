@@ -71,6 +71,7 @@ def Heun(h, u0, v0, condStop, E, gradE, E_min, eps=1e-8):
 
     Change = E[1:] - E[0:-1]
     Dissip = H[1:] - H[0:-1]
+    Dissip = [i/h for i in Dissip]
 
     return it, u, v, E, H, Change, Dissip
 
