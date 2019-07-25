@@ -3,7 +3,7 @@
 - this repository is based on the paper 'Asymptotic behaviour of a Strang splitting scheme for damped second-order gradient systems' 
 by Cristian Daniel Alecsa, Titus Pinta & Adrian Viorel
 
-- the optimization algorithms are presented in the attached '.pdf' file
+- the optimization algorithms can be found in the original paper
 - one cand modify the input parameters in the '.txt' file (in both folders)
 
 Optimization Algorithms :
