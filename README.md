@@ -1,6 +1,6 @@
 # Optimization-Algorithms-III
 - optimizers for 1D and 2D objective functions (including Rosenbrock function). A comparison based upon the energy dissipation, phase portrait, decrease in the objective function
-- this repository is based on the paper 'Asymptotic behaviour of a Strang splitting scheme for damped second-order gradient systems' 
+- this repository is based on the paper 'Asymptotic behavior of a Strang splitting scheme for damped second-order gradient systems' 
 by Cristian Daniel Alecsa, Titus Pinta & Adrian Viorel
 
 - the optimization algorithms can be found in the original paper
